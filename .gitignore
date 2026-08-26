@@ -1,0 +1,16 @@
+example_inputs.vcd
+puzzle.gds
+layout.png
+orig-README.md
+warmup/
+warmup_extract/
+.venv/
+pdk/
+tools/
+*.v
+*.ys
+*.json
+*.ext
+*.spice
+*.vcd
+*.pdf
